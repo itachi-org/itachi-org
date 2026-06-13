@@ -1,13 +1,13 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:58a6ff&height=220&section=header&text=Ryota%20Oshima&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web%20Engineer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Ryota Oshima"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:58a6ff&height=220&section=header&text=Ryota%20Oshima&fontSize=46&fontColor=ffffff&animation=twinkling&&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Ryota Oshima"/>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/GitHub-@Oshima--921-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 10px;"/></a>
+  <a href="https://github.com/oshima921"><img src="https://img.shields.io/badge/GitHub-@oshima921-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 10px;"/></a>
   <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/Location-Niigata%2C%20Japan-0d1117?style=flat-square&logo=googlemaps&logoColor=ffffff&labelColor=2563eb" alt="Location" style="margin: 6px 10px;"/></a>
-  <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/Role-Full--Stack%20Engineer-0d1117?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=6e40c9" alt="Role" style="margin: 6px 10px;"/></a>
+  <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/Role-Blockchain%20%26%20Full%20Stack%20Engineer-0d1117?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=6e40c9" alt="Role" style="margin: 6px 10px;"/></a>
 </p>
 
 <br/>
@@ -20,8 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=58a6ff&height=48&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="About Me"/>
 
-> Full stack web engineer focused on polished frontends and stable backend architecture.
-> I care about clean code, maintainability, and shipping products that feel great to use.
+> Blockchain Developer specializing in secure, scalable Web3 and full stack systems using Solidity, Hardhat, React, Node.js, TypeScript, and PostgreSQL. Proven track record delivering end to end dApps and on- chain/offchain integrations that supported up to 25k+ monthly active users; led audits and optimizations that reduced contract vulnerabilities by 90% and onchain failures by 35%, while improving API throughput and latency by up to 50–60%. Handson experience with multichain (Ethereum, Polygon), CI/CD (Docker, GitHub Actions), upgradeable contract patterns, and mentoring crossfunctional teams to ship reliable product releases.
 
 <br/>
 
@@ -36,20 +35,20 @@
   </thead>
   <tbody>
     <tr>
+      <td valign="top"><strong>Blockchain</strong></td>
+      <td>Ethereum, Solidity, Hardhat, smart contract development, and Web3 integration</td>
+    </tr>
+    <tr>
       <td valign="top"><strong>Frontend</strong></td>
       <td>React, Bootstrap, responsive UI, and interaction design</td>
     </tr>
     <tr>
       <td valign="top"><strong>Backend</strong></td>
-      <td>PHP, Laravel, Node.js, Express, and REST APIs</td>
+      <td>PHP (Laravel, CodeIgniter), Node.js (Express), REST APIs, and database design</td>
     </tr>
     <tr>
-      <td valign="top"><strong>Data</strong></td>
-      <td>MySQL and MongoDB schema design for production apps</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>Engineering</strong></td>
-      <td>Clean architecture, maintainability, and fast iteration</td>
+      <td valign="top"><strong>DevOps</strong></td>
+      <td>Docker, GitHub Actions, CI/CD pipelines, and deployment automation</td>
     </tr>
   </tbody>
 </table>
@@ -60,14 +59,23 @@
 
 <div align="center">
 
+**Blockchain**
+
+<p align="center">
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/solidity.svg" width="84" height="84" alt="Solidity" style="margin: 0 28px 20px;"/></a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ethereum.svg" width="84" height="84" alt="Ethereum" style="margin: 0 28px 20px;"/></a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hardhat.svg" width="84" height="84" alt="Hardhat" style="margin: 0 28px 20px;"/></a>
+  <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/web3.js.svg" width="84" height="84" alt="Web3.js" style="margin: 0 28px 20px;"/></a>
+</p>
+
 **Frontend**
 
 <p align="center">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="84" height="84" alt="React" style="margin: 0 28px 20px;"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="84" height="84" alt="Bootstrap" style="margin: 0 28px 20px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="84" height="84" alt="HTML5" style="margin: 0 28px 20px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="84" height="84" alt="CSS3" style="margin: 0 28px 20px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="84" height="84" alt="JavaScript" style="margin: 0 28px 20px;"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="84" height="84" alt="React" style="margin: 0 28px 20px;"/></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="84" height="84" alt="Bootstrap" style="margin: 0 28px 20px;"/></a>
 </p>
 
 **Backend**
@@ -75,54 +83,21 @@
 <p align="center">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="84" height="84" alt="PHP" style="margin: 0 28px 20px;"/></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="84" height="84" alt="Laravel" style="margin: 0 28px 20px;"/></a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="84" height="84" alt="CodeIgniter" style="margin: 0 28px 20px; padding: 16px; background-color: #21262d; border: 1px solid #30363d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);"/></a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeigniter.svg" width="84" height="84" alt="CodeIgniter" style="margin: 0 28px 20px;"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="84" height="84" alt="Node.js" style="margin: 0 28px 20px;"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="84" height="84" alt="Express" style="margin: 0 28px 20px;"/></a>
-</p>
-
-**Database**
-
-<p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="84" height="84" alt="MySQL" style="margin: 0 28px 20px;"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="84" height="84" alt="MongoDB" style="margin: 0 28px 20px;"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:58a6ff,100:21262d&height=90&section=footer" width="100%" alt=""/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a5f&height=48&section=header&text=Highlights&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="Highlights"/>
-
-- Built responsive frontends with polished interactions and clean UI structure
-- Developed backend services with REST APIs, authentication, and database integrations
-- Delivered projects that balance performance, maintainability, and design quality
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=58a6ff&height=48&section=header&text=Achievements&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="Achievements"/>
-
-<div align="center">
-
-<sub>All official GitHub profile badges (via <a href="https://github.com/Schweinepriester/github-profile-achievements">Schweinepriester/github-profile-achievements</a>). <strong>Glowing</strong> = unlocked on <a href="https://github.com/Oshima-921?tab=achievements">your profile</a>. Dimmed = not yet earned. See <a href="docs/EARN_ACHIEVEMENTS.md">how to earn each one</a>.</sub>
-
-<br/><br/>
+**DevOps**
 
 <p align="center">
-  <a href="https://github.com/Oshima-921?achievement=pair-extraordinaire&tab=achievements" title="Pair Extraordinaire — Unlocked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-silver.png" height="110" alt="Pair Extraordinaire" style="margin: 0 14px 16px; filter: drop-shadow(0 0 14px rgba(88,166,255,0.85));"/></a>
-  <a href="https://github.com/Oshima-921?achievement=quickdraw&tab=achievements" title="Quickdraw — Unlocked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" height="110" alt="Quickdraw" style="margin: 0 14px 16px; filter: drop-shadow(0 0 14px rgba(88,166,255,0.85));"/></a>
-  <a href="https://github.com/Oshima-921?achievement=starstruck&tab=achievements" title="Starstruck — Unlocked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" height="110" alt="Starstruck" style="margin: 0 14px 16px; filter: drop-shadow(0 0 14px rgba(88,166,255,0.85));"/></a>
-  <a href="https://github.com/Oshima-921?achievement=galaxy-brain&tab=achievements" title="Galaxy Brain — Unlocked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" height="110" alt="Galaxy Brain" style="margin: 0 14px 16px; filter: drop-shadow(0 0 14px rgba(88,166,255,0.85));"/></a>
-  <a href="https://github.com/Oshima-921?achievement=pull-shark&tab=achievements" title="Pull Shark — Unlocked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" height="110" alt="Pull Shark" style="margin: 0 14px 16px; filter: drop-shadow(0 0 14px rgba(88,166,255,0.85));"/></a>
-  <a href="https://github.com/Oshima-921?achievement=yolo&tab=achievements" title="YOLO — Unlocked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" height="110" alt="YOLO" style="margin: 0 14px 16px; filter: drop-shadow(0 0 14px rgba(88,166,255,0.85));"/></a>
-  <a href="https://github.com/Oshima-921?achievement=public-sponsor&tab=achievements" title="Public Sponsor — Unlocked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" height="110" alt="Public Sponsor" style="margin: 0 14px 16px; filter: drop-shadow(0 0 14px rgba(88,166,255,0.85));"/></a>
-  <a href="https://github.com/Oshima-921?achievement=arctic-code-vault-contributor&tab=achievements" title="Arctic Code Vault Contributor — Locked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" height="76" alt="Arctic Code Vault Contributor" style="margin: 0 14px 16px; opacity: 0.4; filter: grayscale(100%) brightness(0.7);"/></a>
-  <a href="https://github.com/Oshima-921?achievement=mars-2020-contributor&tab=achievements" title="Mars 2020 Contributor — Locked"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" height="76" alt="Mars 2020 Contributor" style="margin: 0 14px 16px; opacity: 0.4; filter: grayscale(100%) brightness(0.7);"/></a>
-  <a href="https://github.com/Oshima-921?achievement=heart-on-your-sleeve&tab=achievements" title="Heart On Your Sleeve — Disabled"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" height="76" alt="Heart On Your Sleeve" style="margin: 0 14px 16px; opacity: 0.4; filter: grayscale(100%) brightness(0.7);"/></a>
-  <a href="https://github.com/Oshima-921?achievement=open-sourcerer&tab=achievements" title="Open Sourcerer — Disabled"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" height="76" alt="Open Sourcerer" style="margin: 0 14px 16px; opacity: 0.4; filter: grayscale(100%) brightness(0.7);"/></a>
-  <a href="https://github.com/Oshima-921?achievement=proxima-pioneer&tab=achievements" title="Proxima Pioneer — Internal"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/proxima-pioneer-default-51cd4e4969d5.png" height="76" alt="Proxima Pioneer" style="margin: 0 14px 16px; opacity: 0.4; filter: grayscale(100%) brightness(0.7);"/></a>
-  <a href="https://github.com/Oshima-921?achievement=proxima-staffshipper&tab=achievements" title="Proxima Staffshipper — Internal"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/proxima-staffshipper-default-84f658288021.png" height="76" alt="Proxima Staffshipper" style="margin: 0 14px 16px; opacity: 0.4; filter: grayscale(100%) brightness(0.7);"/></a>
-  <a href="https://github.com/Oshima-921?achievement=proxima-staffuser&tab=achievements" title="Proxima Staffuser — Internal"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/proxima-staffuser-default-02bf6163ea31.png" height="76" alt="Proxima Staffuser" style="margin: 0 14px 16px; opacity: 0.4; filter: grayscale(100%) brightness(0.7);"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="84" height="84" alt="Docker" style="margin: 0 28px 20px;"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="84" height="84" alt="GitHub Actions" style="margin: 0 28px 20px;"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:58a6ff,100:21262d&height=90&section=footer" width="100%" alt=""/>
 
 </div>
 
@@ -152,9 +127,11 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/GitHub-@Oshima--921-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 8px;"/></a>
+  <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/GitHub-@oshima921-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 8px;"/></a>
   <a href="https://t.me/hades02921"><img src="https://img.shields.io/badge/Telegram-@hades02921-0d1117?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=229ED9" alt="Telegram" style="margin: 6px 8px;"/></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-hasegawa921-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=5865F2" alt="Discord" style="margin: 6px 8px;"/></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-@oshima921-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=5865F2" alt="Discord" style="margin: 6px 8px;"/></a>
+  <a href="mailto:ryota.oshima2026@gmail.com"><img src="https://img.shields.io/badge/Email-ryota.oshima2026%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335" alt="Email" style="margin: 6px 8px;"/></a>
+  <a href="https://wa.me/819076098879"><img src="https://img.shields.io/badge/WhatsApp-%2B81%2090--7609--8879-0d1117?style=for-the-badge&logo=whatsapp&logoColor=ffffff&labelColor=25D366" alt="WhatsApp" style="margin: 6px 8px;"/></a>
 </p>
 
 <br/>
