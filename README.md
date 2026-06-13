@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/oshima921"><img src="https://img.shields.io/badge/GitHub-@oshima921-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 10px;"/></a>
-  <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/Location-Niigata%2C%20Japan-0d1117?style=flat-square&logo=googlemaps&logoColor=ffffff&labelColor=2563eb" alt="Location" style="margin: 6px 10px;"/></a>
-  <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/Role-Blockchain%20%26%20Full%20Stack%20Engineer-0d1117?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=6e40c9" alt="Role" style="margin: 6px 10px;"/></a>
+  <a href="https://github.com/oshima921"><img src="https://img.shields.io/badge/Location-Niigata%2C%20Japan-0d1117?style=flat-square&logo=googlemaps&logoColor=ffffff&labelColor=2563eb" alt="Location" style="margin: 6px 10px;"/></a>
+  <a href="https://github.com/oshima921"><img src="https://img.shields.io/badge/Role-Blockchain%20%26%20Full%20Stack%20Engineer-0d1117?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=6e40c9" alt="Role" style="margin: 6px 10px;"/></a>
 </p>
 
 <br/>
@@ -62,10 +62,10 @@
 **Blockchain**
 
 <p align="center">
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/solidity.svg" width="84" height="84" alt="Solidity" style="margin: 0 28px 20px;"/></a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ethereum.svg" width="84" height="84" alt="Ethereum" style="margin: 0 28px 20px;"/></a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hardhat.svg" width="84" height="84" alt="Hardhat" style="margin: 0 28px 20px;"/></a>
-  <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/web3.js.svg" width="84" height="84" alt="Web3.js" style="margin: 0 28px 20px;"/></a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="84" height="84" alt="Solidity" style="margin: 0 28px 20px;"/></a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="84" height="84" alt="Ethereum" style="margin: 0 28px 20px;"/></a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="84" height="84" alt="Hardhat" style="margin: 0 28px 20px;"/></a>
+  <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" width="84" height="84" alt="Web3.js" style="margin: 0 28px 20px;"/></a>
 </p>
 
 **Frontend**
@@ -83,7 +83,7 @@
 <p align="center">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="84" height="84" alt="PHP" style="margin: 0 28px 20px;"/></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="84" height="84" alt="Laravel" style="margin: 0 28px 20px;"/></a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeigniter.svg" width="84" height="84" alt="CodeIgniter" style="margin: 0 28px 20px;"/></a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="84" height="84" alt="CodeIgniter" style="margin: 0 28px 20px;"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="84" height="84" alt="Node.js" style="margin: 0 28px 20px;"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="84" height="84" alt="Express" style="margin: 0 28px 20px;"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="84" height="84" alt="MySQL" style="margin: 0 28px 20px;"/></a>
@@ -93,8 +93,8 @@
 **DevOps**
 
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="84" height="84" alt="Docker" style="margin: 0 28px 20px;"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="84" height="84" alt="GitHub Actions" style="margin: 0 28px 20px;"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="84" height="84" alt="Docker" style="margin: 0 28px 20px;"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="84" height="84" alt="GitHub Actions" style="margin: 0 28px 20px;"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:58a6ff,100:21262d&height=90&section=footer" width="100%" alt=""/>
@@ -107,16 +107,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Oshima-921&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oshima-921&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=Yacc,HTML&exclude_repo=Oshima-921&title_color=58A6FF&text_color=c9d1d9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=oshima921&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oshima921&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=Yacc,HTML&exclude_repo=oshima921&title_color=58A6FF&text_color=c9d1d9" alt="Top languages" />
 
-<br/><br/>
+<img height="180" src="https://streak-stats.demolab.com/?user=oshima921&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Oshima-921&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oshima-921&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&bg_color=0d1117" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oshima921&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&bg_color=0d1117" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -127,7 +123,7 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/Oshima-921"><img src="https://img.shields.io/badge/GitHub-@oshima921-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 8px;"/></a>
+  <a href="https://github.com/oshima921"><img src="https://img.shields.io/badge/GitHub-@oshima921-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 8px;"/></a>
   <a href="https://t.me/hades02921"><img src="https://img.shields.io/badge/Telegram-@hades02921-0d1117?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=229ED9" alt="Telegram" style="margin: 6px 8px;"/></a>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-@oshima921-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=5865F2" alt="Discord" style="margin: 6px 8px;"/></a>
   <a href="mailto:ryota.oshima2026@gmail.com"><img src="https://img.shields.io/badge/Email-ryota.oshima2026%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335" alt="Email" style="margin: 6px 8px;"/></a>
