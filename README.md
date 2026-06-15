@@ -1,14 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:58a6ff&height=220&section=header&text=Ryota%20Oshima&fontSize=46&fontColor=ffffff&animation=twinkling&&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Ryota Oshima"/>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/oshima921"><img src="https://img.shields.io/badge/GitHub-@oshima921-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 10px;"/></a>
-  <a href="https://github.com/oshima921"><img src="https://img.shields.io/badge/Location-Niigata%2C%20Japan-0d1117?style=flat-square&logo=googlemaps&logoColor=ffffff&labelColor=2563eb" alt="Location" style="margin: 6px 10px;"/></a>
-  <a href="https://github.com/oshima921"><img src="https://img.shields.io/badge/Role-Blockchain%20%26%20Full%20Stack%20Engineer-0d1117?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=6e40c9" alt="Role" style="margin: 6px 10px;"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:58a6ff&height=220&section=header&text=Welcome&fontSize=46&fontColor=ffffff&animation=twinkling" width="100%" alt="Welcome"/>
 
 <br/>
 
