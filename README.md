@@ -12,45 +12,7 @@
 
 <br/>
 
-<style>
-  @keyframes fadeInOut {
-    0% { opacity: 0; }
-    5% { opacity: 1; }
-    23% { opacity: 1; }
-    28% { opacity: 0; }
-    100% { opacity: 0; }
-  }
-
-  .animated-text {
-    font-family: 'Fira Code', monospace;
-    font-weight: 600;
-    font-size: 24px;
-    color: #58A6FF;
-    text-align: center;
-    height: 32px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .text-line {
-    position: absolute;
-    opacity: 0;
-    animation: fadeInOut 20s infinite;
-  }
-
-  .text-line:nth-child(1) { animation-delay: 0s; }
-  .text-line:nth-child(2) { animation-delay: 5s; }
-  .text-line:nth-child(3) { animation-delay: 10s; }
-  .text-line:nth-child(4) { animation-delay: 15s; }
-</style>
-
-<div class="animated-text" style="position: relative; height: 48px;">
-  <span class="text-line">🔗 Blockchain Developer | Solidity & Smart Contracts</span>
-  <span class="text-line">⚡ Full Stack Engineer | React | PHP | Node.js</span>
-  <span class="text-line">🎯 Web3 Specialist | Ethereum | Polygon | dApps</span>
-  <span class="text-line">💼 DevOps Expert | Docker | CI/CD | Scalable Systems</span>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=🔗+Blockchain+Developer+%7C+Solidity+%26+Smart+Contracts;⚡+Full+Stack+Engineer+%7C+React+%7C+PHP+%7C+Node.js;🎯+Web3+Specialist+%7C+Ethereum+%7C+Polygon+%7C+dApps;💼+DevOps+Expert+%7C+Docker+%7C+CI%2FCD+%7C+Scalable+Systems" alt="Animated intro"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:30363d,100:21262d&height=80&section=footer&reversal=true" width="100%" alt=""/>
 
