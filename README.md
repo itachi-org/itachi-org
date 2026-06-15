@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=🔗+Blockchain+Developer+%7C+Solidity+%26+Smart+Contracts;⚡+Full+Stack+Engineer+%7C+React+%7C+PHP+%7C+Node.js;🎯+Web3+Specialist+%7C+Ethereum+%7C+Polygon+%7C+dApps;💼+DevOps+Expert+%7C+Docker+%7C+CI%2FCD+%7C+Scalable+Systems" alt="Animated intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=Blockchain+Developer+%7C+Solidity+%26+Smart+Contracts;Full+Stack+Engineer+%7C+React+%7C+PHP+%7C+Node.js;Web3+Specialist+%7C+Ethereum+%7C+Polygon+%7C+dApps;DevOps+Expert+%7C+Docker+%7C+CI%2FCD+%7C+Scalable+Systems" alt="Animated intro"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:30363d,100:21262d&height=80&section=footer&reversal=true" width="100%" alt=""/>
 
