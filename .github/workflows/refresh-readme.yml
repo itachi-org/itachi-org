@@ -1,0 +1,53 @@
+name: Refresh README graphs
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 * * * *' # hourly
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set timestamp
+        id: ts
+        run: echo "TIMESTAMP=$(date +%s)" >> $GITHUB_ENV
+
+      - name: Update README contribution graph cache-bust
+        run: |
+          python3 - <<'PY'
+import re, os
+fn = 'README.md'
+text = open(fn, 'r', encoding='utf-8').read()
+pattern = r'(github-readme-activity-graph\.vercel\.app/graph\?username=oshima921[^"\s>]*)'
+ts = os.environ.get('TIMESTAMP')
+def repl(m):
+    base = m.group(1)
+    # remove existing v param if present
+    base = re.sub(r'&v=\d+', '', base)
+    return base + '&v=' + ts
+
+new = re.sub(pattern, repl, text)
+if new != text:
+    open(fn, 'w', encoding='utf-8').write(new)
+    print('Updated README with new timestamp')
+else:
+    print('No matching graph URL found; no changes made')
+PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "chore: refresh contribution graph cache-bust [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
