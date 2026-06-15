@@ -107,12 +107,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=oshima921&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oshima921&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=Yacc,HTML&exclude_repo=oshima921&title_color=58A6FF&text_color=c9d1d9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=oshima921&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshima921&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&exclude_repo=oshima921&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" alt="Top languages" />
 
-<img height="180" src="https://streak-stats.demolab.com/?user=oshima921&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=oshima921&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oshima921&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&bg_color=0d1117" width="100%" alt="Contribution graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=oshima921&theme=react-dark&hide_border=true&area=true&color=58a6ff" width="100%" alt="Contribution graph" />
 
 </div>
 
