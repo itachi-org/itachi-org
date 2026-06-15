@@ -24,7 +24,7 @@ jobs:
 import re, os
 fn = 'README.md'
 text = open(fn, 'r', encoding='utf-8').read()
-pattern = r'(github-readme-activity-graph\.vercel\.app/graph\?username=oshima921[^"\s>]*)'
+pattern = r'(github-readme-activity-graph\.vercel\.app/graph\?username=itachi-org[^"\s>]*)'
 ts = os.environ.get('TIMESTAMP')
 def repl(m):
     base = m.group(1)
