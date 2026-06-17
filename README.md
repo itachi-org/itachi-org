@@ -95,14 +95,14 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a5f&height=48&section=header&text=GitHub%20Activity%20%28itachi-org%29&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="GitHub Activity for itachi-org"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a5f&height=48&section=header&text=GitHub%20Activity%20&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="GitHub Activity for itachi-org"/>
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=itachi-org&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1" alt="GitHub stats for itachi-org" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-org&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1" alt="Top languages for itachi-org" />
 
-<img height="180" src="https://github-readme-streak-stats.cyclic.app/?user=itachi-org&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_seconds=1" alt="GitHub streak for itachi-org" />
+<img height="180" src="/images/streak.svg" alt="GitHub streak for itachi-org" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-org&theme=react-dark&hide_border=true&area=true&color=58a6ff" style="width:100%;max-width:none;height:auto;" alt="Contribution graph for itachi-org" />
 
