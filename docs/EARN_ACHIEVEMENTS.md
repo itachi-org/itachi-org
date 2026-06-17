@@ -1,4 +1,4 @@
-# How to Earn GitHub Profile Achievements
+# How to Earn GitHub Profile Achievements.
 
 GitHub awards these badges automatically on your profile ([Achievements tab](https://github.com/Oshima-921?tab=achievements)). They cannot be added manually—only earned through real activity.
 
