@@ -20,17 +20,19 @@ jobs:
         id: ts
         run: echo "TIMESTAMP=$(date +%s)" >> $GITHUB_ENV
 
-      - name: Update README contribution graph cache-bust
+      - name: Update README GitHub badge cache-bust
         run: |
           python3 - <<'PY'
 import re, os
 fn = 'README.md'
 text = open(fn, 'r', encoding='utf-8').read()
-pattern = r'(github-readme-activity-graph\.vercel\.app/graph\?username=itachi-org[^"\s>]*)'
+pattern = r'(' \
+    r'github-readme-activity-graph\.vercel\.app/graph\?username=itachi-org[^"\s>]*|' \
+    r'github-readme-stats\.vercel\.app/api/[^"\s>]*|' \
+    r'github-readme-streak-stats\.herokuapp\.com/\?user=itachi-org[^"\s>]*)'
 ts = os.environ.get('TIMESTAMP')
 def repl(m):
     base = m.group(1)
-    # remove existing v param if present
     base = re.sub(r'&v=\d+', '', base)
     return base + '&v=' + ts
 
@@ -39,7 +41,7 @@ if new != text:
     open(fn, 'w', encoding='utf-8').write(new)
     print('Updated README with new timestamp')
 else:
-    print('No matching graph URL found; no changes made')
+    print('No matching badge URL found; no changes made')
 PY
 
       - name: Commit and push
