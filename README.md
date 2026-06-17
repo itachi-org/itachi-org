@@ -95,7 +95,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a5f&height=48&section=header&text=GitHub%20Activity&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="GitHub Activity"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a5f&height=48&section=header&text=GitHub%20Activity%20%28itachi-org%29&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="GitHub Activity for itachi-org"/>
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=itachi-org&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_seconds=1" alt="GitHub streak for itachi-org" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-org&theme=react-dark&hide_border=true&area=true&color=58a6ff" width="100%" alt="Contribution graph" />
+<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-org&theme=react-dark&hide_border=true&area=true&color=58a6ff" width="100%" alt="Contribution graph for itachi-org" />
 
 </div>
 
