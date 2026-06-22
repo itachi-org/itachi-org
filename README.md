@@ -115,7 +115,6 @@
 <p align="center">
   <a href="https://github.com/itachi-org"><img src="https://img.shields.io/badge/GitHub-@itachi--org-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22" alt="GitHub" style="margin: 6px 8px;"/></a>
   <a href="https://t.me/hades02921"><img src="https://img.shields.io/badge/Telegram-@hades02921-0d1117?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=229ED9" alt="Telegram" style="margin: 6px 8px;"/></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-@oshima921-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=5865F2" alt="Discord" style="margin: 6px 8px;"/></a>
   <a href="mailto:ryota.oshima2026@gmail.com"><img src="https://img.shields.io/badge/Email-ryota.oshima2026%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335" alt="Email" style="margin: 6px 8px;"/></a>
   <a href="https://wa.me/819076098879"><img src="https://img.shields.io/badge/WhatsApp-%2B81%2090--7609--8879-0d1117?style=for-the-badge&logo=whatsapp&logoColor=ffffff&labelColor=25D366" alt="WhatsApp" style="margin: 6px 8px;"/></a>
 </p>
