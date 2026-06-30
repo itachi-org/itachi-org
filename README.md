@@ -16,37 +16,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a5f&height=48&section=header&text=Core%20Expertise&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="Core Expertise"/>
-
-<table width="100%" cellpadding="8" cellspacing="0" style="border-collapse: collapse; table-layout: auto;">
-  <thead>
-    <tr>
-      <th align="left" width="15%">Area</th>
-      <th align="left" width="85%">Focus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top"><strong>Blockchain</strong></td>
-      <td>Ethereum, Solidity, Hardhat, smart contract development, and Web3 integration</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>Frontend</strong></td>
-      <td>React, Bootstrap, responsive UI, and interaction design</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>Backend</strong></td>
-      <td>PHP (Laravel, CodeIgniter), Node.js (Express), REST APIs, and database design</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>DevOps</strong></td>
-      <td>Docker, GitHub Actions, CI/CD pipelines, and deployment automation</td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=58a6ff&height=48&section=header&text=Tech%20Stack&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="Tech Stack"/>
 
 <div align="center">
@@ -100,17 +69,17 @@
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itachi-org&theme=github_dark" />
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=itachi-org&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats for itachi-org" />
+<!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=itachi-org&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats for itachi-org" /> -->
 
-<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itachi-org&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&title_color=58A6FF&text_color=c9d1d9" alt="Top languages for itachi-org" />
+<!-- <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itachi-org&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&title_color=58A6FF&text_color=c9d1d9" alt="Top languages for itachi-org" /> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-org&theme=react-dark&hide_border=true&area=true&color=58a6ff" style="width:100%;max-width:none;height:auto;" alt="Contribution graph for itachi-org" />
 
-<h2>GitHub Activity</h2>
+<!-- <h2>GitHub Activity</h2> -->
 
-<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itachi-org&show_icons=true&theme=tokyonight" />
+<!-- <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itachi-org&show_icons=true&theme=tokyonight" />
 
-<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itachi-org&layout=compact&langs_count=4&theme=tokyonight" />
+<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itachi-org&layout=compact&langs_count=4&theme=tokyonight" /> -->
 
 </div>
 
