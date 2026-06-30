@@ -99,7 +99,7 @@
 
 <div align="center">
   
-<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itachi-org&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats for itachi-org" />
+<img height="200" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itachi-org](https://github-readme-stats.vercel.app/api?username=itachi-org)&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats for itachi-org" />
 
 <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itachi-org&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&title_color=58A6FF&text_color=c9d1d9" alt="Top languages for itachi-org" />
 
