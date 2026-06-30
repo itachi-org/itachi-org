@@ -98,7 +98,8 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a5f&height=48&section=header&text=GitHub%20Activity%20&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="GitHub Activity for itachi-org"/>
 
 <div align="center">
-  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itachi-org&theme=github_dark" />
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=itachi-org&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats for itachi-org" />
 
 <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itachi-org&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&title_color=58A6FF&text_color=c9d1d9" alt="Top languages for itachi-org" />
