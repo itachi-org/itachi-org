@@ -37,6 +37,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="84" height="84" alt="HTML5" style="margin: 0 28px 20px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="84" height="84" alt="CSS3" style="margin: 0 28px 20px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="84" height="84" alt="JavaScript" style="margin: 0 28px 20px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="84" height="84" alt="TypeScript" style="margin: 0 28px 20px;"/></a>
 </p>
 
 **Backend**
