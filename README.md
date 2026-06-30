@@ -106,6 +106,12 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-org&theme=react-dark&hide_border=true&area=true&color=58a6ff" style="width:100%;max-width:none;height:auto;" alt="Contribution graph for itachi-org" />
 
+<h2>GitHub Activity</h2>
+
+<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itachi-org&show_icons=true&theme=tokyonight" />
+
+<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itachi-org&layout=compact&langs_count=4&theme=tokyonight" />
+
 </div>
 
 <br/>
