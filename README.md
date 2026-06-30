@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:58a6ff&height=220&section=header&text=Welcome&fontSize=46&fontColor=ffffff&animation=twinkling" width="100%" alt="Welcome to Itachi-Org's Profile"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:58a6ff&height=220&section=header&text=Welcome to itachi-org's profile&fontSize=46&fontColor=ffffff&animation=twinkling" width="100%" alt="Welcome to Itachi-Org's Profile"/>
 
 <br/>
 
